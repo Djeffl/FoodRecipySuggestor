@@ -42,17 +42,20 @@ Console.WriteLine($"{helloFreshRecepten.Count()} Hello Fresh recepten...");
 
 
 // Combine
-var recepten = colruytRecepten.Union(lRRecepten).Union(helloFreshRecepten);
+var recipies = colruytRecepten.Union(lRRecepten).Union(helloFreshRecepten).ToList();
 
 Console.WriteLine("Press: 'R' to retry");
 
 char keyPress;
 do
 {
-    var suggestion = recepten.Random();
+    var suggestion = recipies.Random();
     Console.WriteLine(suggestion);
     keyPress = Console.ReadKey().KeyChar;
     Console.WriteLine();
+
+    // Suggestion made so remove it from recipy list
+    recipies.Remove(suggestion);
 } while (char.ToUpper(keyPress) == 'R');
 
 Console.WriteLine("The end.");
