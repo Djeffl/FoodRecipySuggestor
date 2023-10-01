@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "8aIJEN3l2dltXBk1KfYPRha3/CtukRxWp2h4mk5YqB+ooLAR3pOMc5oH1W9r0+SM9zxqHOPOiy+CfSVoqu5dCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jeff\\source\\repos\\SuggestFood\\SuggestFood\\SuggestFoodConsole\\SuggestFoodConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jeff\\.nuget\\packages\\htmlagilitypack\\1.11.53\\htmlagilitypack.1.11.53.nupkg.sha512",
+    "C:\\Users\\Jeff\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jeff\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Jeff\\.nuget\\packages\\microsoft.extensions.logging\\2.0.2\\microsoft.extensions.logging.2.0.2.nupkg.sha512",
+    "C:\\Users\\Jeff\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.2\\microsoft.extensions.logging.abstractions.2.0.2.nupkg.sha512",
+    "C:\\Users\\Jeff\\.nuget\\packages\\microsoft.extensions.options\\2.0.2\\microsoft.extensions.options.2.0.2.nupkg.sha512",
+    "C:\\Users\\Jeff\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\Jeff\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Jeff\\.nuget\\packages\\puppeteersharp\\12.0.0\\puppeteersharp.12.0.0.nupkg.sha512",
+    "C:\\Users\\Jeff\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Jeff\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
